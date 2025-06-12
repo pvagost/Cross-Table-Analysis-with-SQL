@@ -1,5 +1,5 @@
 # Cross-Table-Analysis-with-SQL
-These codes are used to answer to these questions from README file by using SQL and python libraries such as pandas, numpy, seaborn, etc.
+These codes are used to answer to these folllowing questions by using SQL and python libraries such as pandas, numpy, seaborn, etc.
 
 Q1. Analyze home field advantage across different leagues and seasons: Does playing at home provide
 a statistically significant advantage, and has this advantage changed over time (2010-2015)?
