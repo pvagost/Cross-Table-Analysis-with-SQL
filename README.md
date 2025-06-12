@@ -1,6 +1,8 @@
 # Cross-Table-Analysis-with-SQL
 These codes are used to answer to these folllowing questions by using SQL and python libraries such as pandas, numpy, seaborn, etc.
 
+**Before running the code, ensure that “FifaStat.sqlite” is in the same folder as the Jupyter Notebook file.**
+
 Q1. Analyze home field advantage across different leagues and seasons: Does playing at home provide
 a statistically significant advantage, and has this advantage changed over time (2010-2015)?
 
