@@ -3,6 +3,9 @@ These codes are used to answer to these folllowing questions by using SQL and py
 
 **Before running the code, ensure that “FifaStat.sqlite” is in the same folder as the Jupyter Notebook file.**
 
+Compressed Data File's Link
+https://drive.google.com/file/d/1HIPSPWmtkMriHu-lc10hAQBGZhFR5Ydl/view?usp=sharing
+
 Q1. Analyze home field advantage across different leagues and seasons: Does playing at home provide
 a statistically significant advantage, and has this advantage changed over time (2010-2015)?
 
